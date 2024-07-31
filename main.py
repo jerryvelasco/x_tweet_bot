@@ -3,11 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-PROMISED_DOWN = 150
-PROMISED_UP = 10
-CHROME_DRIVER_PATH = "/User"
-TWITTER_PW = "@Jerry9428"
-TWITTER_EMAIL = "Jerrycoding1@gmail.com"
+TWITTER_PW = "ENTER YOUR PASSWORD"
+TWITTER_EMAIL = "ENTER YOUR EMAIL"
 
 """post tweet to twitter/x account using provided credentials"""
 class TwitterBot:
